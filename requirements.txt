@@ -1,0 +1,6 @@
+streamlit
+openai
+streamlit_chat
+numpy
+pandas
+tiktoken
