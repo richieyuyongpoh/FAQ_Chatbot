@@ -1,0 +1,71 @@
+Item,Question,Answer,Token
+1,What is MySejahtera,"What is MySejahtera?  MySejahtera is an application developed by the Government of Malaysia to assist in managing the COVID-19 outbreaks in the country. It allows users to perform health self-assessment on themselves and their families. The users can also monitor their health progress throughout the COVID-19 outbreak. In addition, MySejahtera enables Ministry of Health (MOH) to monitor users' health condition and take immediate actions in providing the treatments required.
+
+MySejahtera application is developed to:
+
+Assists the Government in managing and mitigating the COVID-19 outbreak
+
+Helps users in monitoring their health throughout the COVID-19 outbreak
+
+ Assists users in getting treatment if they are infected with COVID-19
+
+ Locates nearest hospitals and clinics for COVID-19 screening and treatment.",173
+2,Who developed MySejahtera,"Who developed MySejahtera ? MySejahtera is developed through a strategic cooperation between the National Security Council (NSC), the Ministry of Health (MOH), the Malaysian Administrative Modernisation and Management Planning Unit (MAMPU) and Malaysian Communications and Multimedia Commission (MCMC) and Ministry of Science, Technology and Innovation (MOSTI).",72
+3,Who can use MySejahtera,"Who can use MySejahtera? MySejahtera is used by:
+
+ Malaysians and residents of Malaysia
+
+ System administrator in MOH",29
+4,What are the laws related to the implementation of MySejahtera,"What are the laws related to the implementation of MySejahtera? MySejahtera was developed to support the implementation of the Prevention and Control of Infectious Diseases Act 1988 [Act 342].
+
+Providing false information is an offence under Section 22 of the Prevention and Control of Infectious Diseases Act 1988 [Act 342] and Section 233 of the Communication and Multimedia Act 1998 [Act 588.]",82
+5,How will the information that I submit throught the application help the Government in managing the outbreak of Covid-19 in Malaysia,"How will the information that I submit throught the application help the Government in managing the outbreak of Covid-19 in Malaysia?  Essentially, your information will be used by the MOH to help them plan their resources and actions that they need to take efficiently. So please be honest when you submit your information. Honesty will help flatten the curve.",72
+6,What is the minimun mobile device's requirement to use MySejahtera? ," What is the minimun mobile device's requirement to use MySejahtera?  Smartphones running Android 4.4 and above or iOS 12 and above.
+
+ Internet connection
+
+ Able to receive SMS for the system to send One-Time-Pin (OTP) for the verification process.",59
+7,Where can I download MySejahtera app? ,"Where can I download MySejahtera app?  MySejahtera in available in Galeri Aplikasi Mudah Alih Kerajaan Malaysia (GAMMA), Apple App Store, Google Play Store and Huawei AppGallery.",49
+8,Do I have to pay to download MySejahtera application? ,"Do I have to pay to download MySejahtera application? No, MySejahtera is FREE to use.",24
+9,How do I register in MySejahtera?,"How do I register in MySejahtera? To register, you need to follow these steps:
+
+Step 1: Download and install MySejahtera from the Gallery of Malaysian Government Mobile Applications (GAMMA), Apple AppStore, Google Play Store or Huawei AppGallery
+
+Step 2: Click on ""Register Here"" to register a new account
+
+Step 3: Enter your mobile phone number and click ""Register"" or click on the link ""I would like to use Email to Register"" (if you want to register using email address)
+
+Step 4: You will receive an OTP via SMS from 63839 (if you register using phone number) or confirmation link through your email (if you register using email address)
+
+Step 5: Enter the OTP and click 'Send' (if you register using phone number) or click on the confirmation link sent to your email (if you register using email address)
+
+Step 6: Fill in your registration details and click 'Confirm'
+
+Step 7: You will receive a ""Successful Registration"" message. Click ""Close"" at the bottom of the screen to return to the sign-in screen
+
+Step 8: Enter your User ID (phone number or email address) and your password and click ""Sign in"".
+
+Step 9: Congratulation! You may start using the app.",282
+10,Can I register my family members or other individuals living with me ?,"Can I register my family members or other individuals living with me ?Yes, you can register for those who do not have a phone number or access to smartphones by using the ""Manage Dependents"" function in this app. This application will also help you to monitor their health.",56
+11,What is user classification in MySejahtera? ,"What is user classification in MySejahtera? Once you have compiled the self-health assessment, your status will be classified as one of the following:
+
+#	Classification?	Description
+1	Low Risk	Individuals with low risk of COVID-19 infection.
+2	Casual Contact	Individuals who were likely exposed to another person infected with COVID-19.
+3	Close Contact	Individuals who have been exposed to other individuals infected with COVID-19. This includes:
+ Health care associated exposure, including providing direct care for COVID19 patients without using appropriate PPE, working with health care workers infected with COVID-19, visiting patients or staying in the same close environment of a COVID-19 patient.
+
+ Working together in close proximity or sharing the same classroom environment with a with COVID-19 patient
+
+ Traveling together with COVID-19 patient in any kind of conveyance
+
+ Living in the same household as a COVID-19 patient
+
+4	Person Under Surveillance (PUS)	Individuals who are at risk of being infected with COVID-19. For example individuals with a history of traveling abroad within the last 14 days.
+5	Suspected Case	Investigation (PUI) Individuals who are at risk of being infected with COVID-19, for example, individuals with a history of traveling abroad or have attended mass gatherings within 14 days before the onset of symptoms.
+6	Confirmed Case	Individuals tested positive for COVID-19.",315
+12,Where can I get help for technical issues? ,"User can submit complaints through the ""MySejahtera Helpdesk"" function within the application.",20
+13, Is my personal information shared in this application secure? ,"Is my personal information shared in this application secure?
+MySejahtera is owned and operated by the Government of Malaysia. It is administrated by MOH and assisted by NSC and MAMPU. The Government assures that your personal information will only be used for the purpose of managing and mitigating COVID-19 outbreak. It will not be shared to any other party.",76
+14,"If I am identified as a COVID-19 patient, will my identity be protected?"," If I am identified as a COVID-19 patient, will my identity be protected?
+YES, the information of all COVID-19 patients is protected under the confidentiality of medical records.",39
